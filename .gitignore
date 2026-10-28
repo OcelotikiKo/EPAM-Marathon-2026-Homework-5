@@ -1,0 +1,13 @@
+﻿bin/
+obj/
+.vs/
+*.user
+*.zip
+*.bak
+.env
+.env.*
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform/
+deployment_resources.json
