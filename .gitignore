@@ -1,4 +1,50 @@
-﻿bin/
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+*.code-workspace
+
+# OS
+.DS_Store
+._*
+Thumbs.db
+
+# Node
+node_modules/
+
+# Local env
+.env
+.env.local
+
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+crash.log
+crash.*.log
+
+.venv/
+node_modules/
+bin/
+obj/
+dist/
+**/.venv/
+**/node_modules/
+**/bin/
+**/obj/
+**/dist/
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/*.tfvars
+**/*.tfplan
+**/.env
+**/.env.*
+**/*.pem
+**/*.key
+bin/
 obj/
 .vs/
 *.user
@@ -11,3 +57,4 @@ obj/
 *.tfvars
 .terraform/
 deployment_resources.json
+
