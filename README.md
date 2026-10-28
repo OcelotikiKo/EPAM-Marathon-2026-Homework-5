@@ -1,4 +1,4 @@
-﻿# EPAM IT Marathon 2026 вЂ“ Backend Homework #5
+﻿# EPAM IT Marathon 2026 “ Backend Homework #5
 
 Backend homework completed as part of **EPAM IT Marathon 2026**.
 
@@ -10,13 +10,13 @@ The application is deployed using AWS Lambda, Amazon API Gateway, Amazon DynamoD
 
 ## Implemented Functionality
 
-### Level 1 вЂ“ Group Pre-Order Overview
+### Level 1 “ Group Pre-Order Overview
 
 `GET /guest/groups/{groupReservationId}/sessions`
 
 Allows the reservation owner to view participants, selected dishes, quantities, individual totals and submission statuses.
 
-### Level 2 вЂ“ Owner Session and Order Consolidation
+### Level 2 “ Owner Session and Order Consolidation
 
 `GET /reservations/{reservationId}/guest-session-id`
 
@@ -24,7 +24,7 @@ Allows the reservation owner to view participants, selected dishes, quantities, 
 
 Retrieves the owner's guest session ID and consolidates submitted guest orders into the restaurant order.
 
-### Level 3 вЂ“ Guest Session Management
+### Level 3 “ Guest Session Management
 
 `DELETE /guest/groups/{groupReservationId}/sessions/{guestSessionId}`
 
