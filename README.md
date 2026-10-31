@@ -4,7 +4,7 @@ Backend homework completed as part of **EPAM IT Marathon 2026**.
 
 ## Live Demo
 
-**[Green Tasty Restaurant вЂ“ Open Website](https://dl8v07zbkza4a.cloudfront.net/main)**
+**[Green Tasty Restaurant“ Open Website](https://dl8v07zbkza4a.cloudfront.net/main)**
 
 The application is deployed using AWS Lambda, Amazon API Gateway, Amazon DynamoDB and Amazon CloudFront.
 
