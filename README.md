@@ -2,6 +2,8 @@
 
 Backend homework completed as part of **EPAM IT Marathon 2026**.
 
+**Author:** Yan Kolesnykov
+
 ## Live Demo
 
 **[Green Tasty Restaurant“ Open Website](https://dl8v07zbkza4a.cloudfront.net/main)**
